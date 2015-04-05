@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trains>
+    <train id="1">
+        <date>05.04.2015</date>
+        <from>Kyiv</from>
+        <departure>15:30</departure>
+        <to>Donetsk</to>
+    </train>
+    <train id="2">
+        <date>05.04.2015</date>
+        <from>Lviv</from>
+        <departure>16:31</departure>
+        <to>Donetsk</to>
+    </train>
+    <train id="3">
+        <date>05.04.2015</date>
+        <from>odessa</from>
+        <departure>16:35</departure>
+        <to>rivne</to>
+    </train>
+    <train id="4">
+        <date>05.04.2015</date>
+        <from>odessa</from>
+        <departure>17:30</departure>
+        <to>rivne</to>
+    </train>
+    <train id="5">
+        <date>05.04.2015</date>
+        <from>odessa</from>
+        <departure>17:30</departure>
+        <to>rivne</to>
+    </train>
+    <train id="5">
+        <date>05.04.2015</date>
+        <from>odessa</from>
+        <departure>17:30</departure>
+        <to>rivne</to>
+    </train>
+    <train id="5">
+        <date>05.04.2015</date>
+        <from>odessa</from>
+        <departure>17:30</departure>
+        <to>rivne</to>
+    </train>
+    <train id="5">
+        <date>05.04.2015</date>
+        <from>odessa</from>
+        <departure>17:30</departure>
+        <to>rivne</to>
+    </train>
+</trains>

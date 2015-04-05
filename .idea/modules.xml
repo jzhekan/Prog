@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAXB/JAXB.iml" filepath="$PROJECT_DIR$/JAXB/JAXB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSON/JSON.iml" filepath="$PROJECT_DIR$/JSON/JSON.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prog.iml" filepath="$PROJECT_DIR$/Prog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaskJson/TaskJson.iml" filepath="$PROJECT_DIR$/TaskJson/TaskJson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestDate/TestDate.iml" filepath="$PROJECT_DIR$/TestDate/TestDate.iml" />
       <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/httpserver/httpserver.iml" filepath="$PROJECT_DIR$/httpserver/httpserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/reflection/reflection.iml" filepath="$PROJECT_DIR$/reflection/reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmlParser/xmlParser.iml" filepath="$PROJECT_DIR$/xmlParser/xmlParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmlParserYahoo/xmlParserYahoo.iml" filepath="$PROJECT_DIR$/xmlParserYahoo/xmlParserYahoo.iml" />
     </modules>
   </component>
 </project>

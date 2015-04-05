@@ -15,7 +15,7 @@ public class Client extends Thread {
     public Client(Socket socket, List<Client> clients, String path) {
         this.socket = socket;
         this.clients = clients;
-        fm = new FileManager(path);
+        fm = new FileManager(path,5);
     }
     
     private void return400(OutputStream os) throws IOException {
